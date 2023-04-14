@@ -10,3 +10,8 @@ Hope you enjoy and I certainly welcome any suggestions or collaborations on this
 Best wishes, Andrew
 
 
+PS:
+
+To use this in blender, simply download the playOnce.py file and go to Preferences>Add-ons and then install and activate the file.
+
+Since this is the earliest version, I haven't yet implemented an __init__ file so that you can install it as a zip and activate that way. Also I will probably refactor the code and add features...coming soon! 
