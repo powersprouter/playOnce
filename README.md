@@ -5,7 +5,7 @@ A simple blender add-on utility
 
 This is a really simple blender add-on that makes it easier to play back your animation only once when you are testing it.
 
-playOnce creates check box that can be toggled to allow blender users to decide whether the timeline playback should automatically loop continuously after the playhead reaches the endframe (blender's current default) or not. When playOnce is toggled ON and its "play" button is pressed, the playhead will only play back your animation just once, and then stop at the end frame. Get it? Play Once! :D
+playOnce creates a check box that can be toggled to allow blender users to decide whether the timeline playback should automatically loop continuously after the playhead reaches the endframe (blender's current default) or not. When playOnce is toggled ON and its "play" button is pressed, the playhead will only play back your animation just once, and then stop at the end frame. Get it? Play Once! :D
 
 Hope you enjoy and I certainly welcome any suggestions or collaborations on this. Please don't hesitate to contact me directly.
 
